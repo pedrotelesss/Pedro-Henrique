@@ -3,7 +3,6 @@
 - 💻 Iniciando minha jornada como desenvolvedor, com compromisso em aprender, evoluir e contribuir para projetos relevantes
 - 🧠 Tecnologias em aprendizado: Python, HTML, CSS e Banco de Dados<div>
 ----------------------------------------------------------------------------------------------------------------------------------
- 
   <p>
   <img 
     align="left" 
